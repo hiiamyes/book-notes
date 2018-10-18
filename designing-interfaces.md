@@ -20,3 +20,5 @@
 
 ### Instant Gratification
 
+### Satisficing
+- Satisfying + Sufficing.
