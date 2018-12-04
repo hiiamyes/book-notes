@@ -28,3 +28,8 @@
 - Especially if you're working with a new product, this is where you should start.
 - Information architecture (IA) is the art of organizing an information space.
 - It encompasses many thins: presenting, searching, browsing, labeling, categorizing, sorting, manipulating, and strategically hiding information.
+
+## The Big Picture
+
+- From the designer's perspective, your site or application probably serves several functions.
+- 
