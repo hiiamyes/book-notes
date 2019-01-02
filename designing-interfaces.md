@@ -32,4 +32,26 @@
 ## The Big Picture
 
 - From the designer's perspective, your site or application probably serves several functions.
-- 
+
+
+
+# Ch5. Lists of Things
+
+## Use Cases of Lists
+
+- Getting an overview
+- Browsing item by item
+- Searching for a specific item
+- Sorting and filtering
+- Rearranging, adding, deleting, or recatogorizing itmes
+
+## Information Architecture
+
+If you have a list of things to show in a page, what are the salient nonvisual characteristics of that list? The answers to these questions may suggest a variety of design solutions to you.
+
+- Length
+- Order
+- Grouping
+- Item types
+- Interaction
+- Dynamic behavior
