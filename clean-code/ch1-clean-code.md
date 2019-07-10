@@ -1,6 +1,5 @@
 # Chapter 1. Clean Code
 
-<<<<<<< HEAD
 ## There Will Be Code
 
 ## Bad Code
@@ -18,6 +17,3 @@
 The **code sense** is the key.
 
 ## What Is Clean Code?
-=======
-- A very controversial topic.
->>>>>>> 1143cf25d1c823bd97a4be983283a4c8546cdea3
