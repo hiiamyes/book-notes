@@ -1,4 +1,4 @@
-# Chapter 1. Meaningful Names
+# Chapter 2. Meaningful Names
 
 - We name and name and name. Because we do so much time of it, we'd better do it well.
 
