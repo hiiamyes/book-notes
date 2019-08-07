@@ -23,7 +23,7 @@ correct, pre-ES6
 Bar.prototype = Object.create(Foo.prototype)
 ```
 
-correct, ES6
+correct, ES6+
 
 ```
 Object.setPrototypeOf(Bar.prototype, Foo.prototype)
