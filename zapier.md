@@ -1,3 +1,5 @@
+# Story
+
 # Remote
 
 # Funding
@@ -11,3 +13,5 @@ C round
 
 # Growth strategy
 
+- Getting more apps on Zapier
+- A book tell partner how to do
