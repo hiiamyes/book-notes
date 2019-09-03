@@ -11,13 +11,15 @@ Designing for sacnning, not for reading.
 
 ## Create effective visual hierarchies
 
-## Break pages up
+## Break up pages into clearly defined areas
 
-## Clickable
+## Make it obvious what's clickable
 
-## Eliminate distraction
+## Keep the noise down to dull roar
 
-## Format content to support scanning
+- Shouting
+- Disorganization
+- Clutter
 
-- Headers
-- Bucket list
+## Format text to support scanning
+
