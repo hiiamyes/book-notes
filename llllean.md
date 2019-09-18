@@ -16,10 +16,10 @@ Zappos began with a tiny, simple product. It was designed to answer one question
 
 Mark Cook, Kodak Gallery's VP of product said: Instead, I try to push my team to first answer four question:
 
-1. Do customers recognize that they have the problem you are trying to sovle?
+1. Do customers recognize that they have the problem you are trying to solve?
 1. If there was a solution, would they buy it?
 1. Would they buy it from us?
-1. Can we build a solution for that problem? 
+1. Can we build a solution for that problem?
 
 ## The Village Laundry Service
 
