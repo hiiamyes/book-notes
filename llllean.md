@@ -21,6 +21,10 @@ Mark Cook, Kodak Gallery's VP of product said: Instead, I try to push my team to
 1. Would they buy it from us?
 1. Can we build a solution for that problem?
 
+Successing is not delivering a feature; success is learning how to solve the customer's problem.
+
 ## The Village Laundry Service
+
+
 
 ## A Lean Startup In Government?
